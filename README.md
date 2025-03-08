@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/6ade8dd0-98f1-498a-9792-4f2eba1e1e3e)
 
 
-# ER Diagram 
+# Relational Schema 
 ![CoffeeERDImage](https://github.com/user-attachments/assets/696ac269-ce42-4e2e-be19-368350b333ab)
 
 # Business Problems 
